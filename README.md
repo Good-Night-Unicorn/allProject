@@ -23,7 +23,7 @@
 | 16   | 基于springboot+vue 的小区物业管理系统                        | [基于springboot+vue 的小区物业管理系统_晚安独角兽的博客-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/131623885) |
 | 17   | 基于springboot的幼儿园管理系统                               | [基于springboot的幼儿园管理系统_晚安独角兽的博客-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/131623677) |
 | 18   | springboot蓝天幼儿园管理系统                                 | [springboot蓝天幼儿园管理系统_晚安独角兽的博客-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/131364144) |
-| 19   | java基于微信小程序旅游管理系统 uniapp 小程序+论文            | [java基于微信小程序旅游管理系统 uniapp 小程序+论文_晚安独角兽的博客-CSDN博客 (https://blog.csdn.net/javayoungcoolboy/article/details/131363903) |
+| 19   | java基于微信小程序旅游管理系统 uniapp 小程序+论文            | [java基于微信小程序旅游管理系统 uniapp 小程序+论文_晚安独角兽的博客-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/131363903) |
 | 20   | 基于SSM的网上租车系统(含源码+论文+ppt)                       | [基于SSM的网上租车系统(含源码+论文+ppt)_晚安独角兽的博客-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/131317239) |
 | 21   | 基于springboot+vue高校实验室教学管理系统【附源码】           | [基于springboot+vue高校实验室教学管理系统【附源码】_晚安独角兽的博客-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/131032388) |
 | 22   | 基于Spring boot的个人理财系统                                | [基于Spring boot的个人理财系统-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/131015512) |
@@ -37,6 +37,17 @@
 | 30   | SpringBoot+Vue+Element-UI实现学生综合成绩测评系统            | [SpringBoot+Vue+Element-UI实现学生综合成绩测评系统_vue成绩查询-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/129707802) |
 | 31   | ssm协同过滤的图书推荐系统                                    | [ssm协同过滤的图书推荐系统_晚安独角兽的博客-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/129470162) |
 | 32   | 基于servlet+jsp的在线考试管理系统                            | [基于servlet+jsp的在线考试管理系统_晚安独角兽的博客-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/127338241) |
+| 33   | 基于 SpringBoot + vue 的医院管理系统（含源码，数据库，文档） | [基于 SpringBoot + vue 的医院管理系统（含源码，数据库，文档）-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/135490480) |
+| 34   | 基于springboot电影推荐网站                                   | [基于springboot电影推荐网站-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/130934245) |
+| 35   | jservlet+jsp敬老院管理系统+论文                              | [javaweb敬老院管理系统+论文-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/134450329) |
+| 36   | 基于ssm的酒店管理系统                                        | [基于ssm的酒店管理系统-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/134450190) |
+| 37   | java 服装商城网站设计与实现                                  | [java 服装商城网站设计与实现-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/134397192) |
+| 38   | springboot+vue前后端分离的社区养老服务管理管理系统(有文档)   | [springboot+vue前后端分离的社区养老服务管理管理系统(有文档)-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/134217901) |
+| 39   | servlet+jsp鲜花商城管理系统                                  | [鲜花商城管理系统【附源码】-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/131015653) |
+| 40   | 基于servlet+jsp的学籍管理系统【附源码 包含论文 开题报告 ppt 毕业设计任务书】 | [基于javaweb的学籍管理系统【附源码 包含论文 开题报告 ppt 毕业设计任务书】_javaweb学生信息管理+论文+ppt-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/131015063) |
+| 41   | servlet+jsp的球鞋购物系统                                    | [java球鞋购物系统【附源码】_球鞋购买系统-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/131015022) |
+
+
 接毕业设计和论文
 作者QQ：3042127848 微信：FY-yuanma (支持修改、 部署调试、 支持代做毕设)
 接网站建设、小程序、H5、APP、各种系统等
